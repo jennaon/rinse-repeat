@@ -1,0 +1,2 @@
+# bind the following command to your shortcuts. Useful for your ip, passwords, etc. 100% bad for security.
+bash -c "xsel -ib <<< '<your_text_to_copy>'"
