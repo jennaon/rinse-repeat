@@ -1,7 +1,7 @@
 #!/usr/bin/expect
 
 set USR "<your email here>"
-set PWD "<your gmail here>"
+set PWD "<your pw here>"
 
 set timeout 120
 
